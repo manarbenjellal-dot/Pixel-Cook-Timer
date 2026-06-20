@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Pixel Cook Timer",
+            "type": "debugpy",
+            "request": "launch",
+            "python": "C:\\Users\\21266\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "${workspaceFolder}/app.py",
+                "--server.headless=false"
+            ],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
