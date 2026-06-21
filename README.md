@@ -16,8 +16,16 @@ A cute and minimal pixel art cooking timer designed for quick and easy use in th
 
 1. Open the app  
 2. choose the type of food
-3. choose the cooking style     
-4. start your alarm
-5. wait for it to ring
+   
+   <img src="type.jpg">
+   
+4. choose the cooking style
+   
+   <img src="cook.jpg">
+    
+6. start your alarm
+     
+8. wait for it to ring
+   <img src="timer.jpg">
 
 
